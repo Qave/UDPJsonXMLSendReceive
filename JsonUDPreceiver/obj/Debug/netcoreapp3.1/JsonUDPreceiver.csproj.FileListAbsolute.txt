@@ -1,0 +1,17 @@
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\JsonUDPreceiver\bin\Debug\netcoreapp3.1\JsonUDPreceiver.exe
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\JsonUDPreceiver\bin\Debug\netcoreapp3.1\ModelLib.dll
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\JsonUDPreceiver\bin\Debug\netcoreapp3.1\ModelLib.pdb
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\JsonUDPreceiver\obj\Debug\netcoreapp3.1\JsonUDPreceiver.csprojAssemblyReference.cache
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\JsonUDPreceiver\obj\Debug\netcoreapp3.1\JsonUDPreceiver.AssemblyInfoInputs.cache
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\JsonUDPreceiver\obj\Debug\netcoreapp3.1\JsonUDPreceiver.AssemblyInfo.cs
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\JsonUDPreceiver\obj\Debug\netcoreapp3.1\JsonUDPreceiver.csproj.CopyComplete
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\JsonUDPreceiver\bin\Debug\netcoreapp3.1\JsonUDPreceiver.deps.json
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\JsonUDPreceiver\bin\Debug\netcoreapp3.1\JsonUDPreceiver.runtimeconfig.json
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\JsonUDPreceiver\bin\Debug\netcoreapp3.1\JsonUDPreceiver.runtimeconfig.dev.json
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\JsonUDPreceiver\bin\Debug\netcoreapp3.1\JsonUDPreceiver.dll
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\JsonUDPreceiver\bin\Debug\netcoreapp3.1\JsonUDPreceiver.pdb
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\JsonUDPreceiver\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\JsonUDPreceiver\obj\Debug\netcoreapp3.1\JsonUDPreceiver.csproj.CoreCompileInputs.cache
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\JsonUDPreceiver\obj\Debug\netcoreapp3.1\JsonUDPreceiver.dll
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\JsonUDPreceiver\obj\Debug\netcoreapp3.1\JsonUDPreceiver.pdb
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\JsonUDPreceiver\obj\Debug\netcoreapp3.1\JsonUDPreceiver.genruntimeconfig.cache

@@ -12,7 +12,7 @@ namespace PlainUDPSender
 
         public void Start()
         {
-            Car tesla = new Car() { Model = "Tesla", Color = "Black", RegNr = 41238};
+            Car tesla = new Car() { Model = "Tesla", Color = "Black", RegNr = "232EW"};
             
             IPAddress ip = IPAddress.Parse("127.0.0.1"); //
             UdpClient udpClient = new UdpClient("127.0.0.1", 11001);

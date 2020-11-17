@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KaIFW6QUwuMwq8r3ALjIZ1bczNn1eOpOH0xkaHTVMZbgOPdW+PNZxbMoA/M10269hNmEGG06GvRyHX03Dzdszw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kasper\\source\\repos\\AA-Jamsid-Opgaver\\PlainUDPReceiver\\JsonUDPSender\\JsonUDPSender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kasper\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
