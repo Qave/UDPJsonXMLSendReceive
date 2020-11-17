@@ -16,8 +16,8 @@ namespace JsonUDPreceiver
             UdpClient udpReceiver = new UdpClient(11002);
 
             //Creates an IPEndPoint to record the IP Address and port number of the sender.  
-            IPAddress ip = IPAddress.Parse("127.0.0.1");
-            IPEndPoint RemoteIpEndPoint = new IPEndPoint(ip, 11002);
+            //IPAddress ip = IPAddress.Parse("127.0.0.1");
+            IPEndPoint RemoteIpEndPoint = new IPEndPoint(IPAddress.Any, 11002);
             //IPEndPoint object will allow us to read datagrams sent from another source.
 
             try

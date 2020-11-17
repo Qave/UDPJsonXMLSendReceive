@@ -14,10 +14,10 @@ namespace JsonUDPSender
         {
             Car tesla = new Car() { Model = "Tesla", Color = "Green", RegNr = "JsonCar5" };
 
-            IPAddress ip = IPAddress.Parse("127.0.0.1"); //
-            UdpClient udpClient = new UdpClient("127.0.0.1", 11002);
+            //IPAddress ip = IPAddress.Parse("127.0.0.1"); //
+            UdpClient udpClient = new UdpClient(0);
 
-            IPEndPoint RemoteIpEndPoint = new IPEndPoint(ip, 11002); //
+            IPEndPoint RemoteIpEndPoint = new IPEndPoint(IPAddress.Broadcast, 11002); //
 
 
             Console.Write("String to send:");
@@ -26,7 +26,7 @@ namespace JsonUDPSender
 
             Byte[] sendBytes = Encoding.ASCII.GetBytes(stringToSend);
 
-            udpClient.Send(sendBytes, sendBytes.Length); //, (RemoteEndPoint NOT in 1-1 communication);
+            udpClient.Send(sendBytes, sendBytes.Length, RemoteIpEndPoint); //, (RemoteEndPoint NOT in 1-1 communication);
 
         }
     }
