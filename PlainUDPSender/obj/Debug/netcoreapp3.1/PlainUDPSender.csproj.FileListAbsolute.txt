@@ -1,0 +1,16 @@
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPSender\bin\Debug\netcoreapp3.1\PlainUDPSender.exe
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPSender\bin\Debug\netcoreapp3.1\PlainUDPSender.deps.json
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPSender\bin\Debug\netcoreapp3.1\PlainUDPSender.runtimeconfig.json
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPSender\bin\Debug\netcoreapp3.1\PlainUDPSender.runtimeconfig.dev.json
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPSender\bin\Debug\netcoreapp3.1\PlainUDPSender.dll
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPSender\bin\Debug\netcoreapp3.1\PlainUDPSender.pdb
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPSender\obj\Debug\netcoreapp3.1\PlainUDPSender.csprojAssemblyReference.cache
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPSender\obj\Debug\netcoreapp3.1\PlainUDPSender.AssemblyInfoInputs.cache
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPSender\obj\Debug\netcoreapp3.1\PlainUDPSender.AssemblyInfo.cs
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPSender\obj\Debug\netcoreapp3.1\PlainUDPSender.csproj.CoreCompileInputs.cache
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPSender\obj\Debug\netcoreapp3.1\PlainUDPSender.dll
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPSender\obj\Debug\netcoreapp3.1\PlainUDPSender.pdb
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPSender\obj\Debug\netcoreapp3.1\PlainUDPSender.genruntimeconfig.cache
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPSender\bin\Debug\netcoreapp3.1\ModelLib.dll
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPSender\bin\Debug\netcoreapp3.1\ModelLib.pdb
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPSender\obj\Debug\netcoreapp3.1\PlainUDPSender.csproj.CopyComplete

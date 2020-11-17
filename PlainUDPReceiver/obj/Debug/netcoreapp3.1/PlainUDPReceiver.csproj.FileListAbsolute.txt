@@ -1,0 +1,16 @@
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPReceiver\bin\Debug\netcoreapp3.1\PlainUDPReceiver.exe
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPReceiver\bin\Debug\netcoreapp3.1\PlainUDPReceiver.deps.json
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPReceiver\bin\Debug\netcoreapp3.1\PlainUDPReceiver.runtimeconfig.json
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPReceiver\bin\Debug\netcoreapp3.1\PlainUDPReceiver.runtimeconfig.dev.json
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPReceiver\bin\Debug\netcoreapp3.1\PlainUDPReceiver.dll
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPReceiver\bin\Debug\netcoreapp3.1\PlainUDPReceiver.pdb
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPReceiver\obj\Debug\netcoreapp3.1\PlainUDPReceiver.csprojAssemblyReference.cache
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPReceiver\obj\Debug\netcoreapp3.1\PlainUDPReceiver.AssemblyInfoInputs.cache
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPReceiver\obj\Debug\netcoreapp3.1\PlainUDPReceiver.AssemblyInfo.cs
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPReceiver\obj\Debug\netcoreapp3.1\PlainUDPReceiver.csproj.CoreCompileInputs.cache
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPReceiver\obj\Debug\netcoreapp3.1\PlainUDPReceiver.dll
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPReceiver\obj\Debug\netcoreapp3.1\PlainUDPReceiver.pdb
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPReceiver\obj\Debug\netcoreapp3.1\PlainUDPReceiver.genruntimeconfig.cache
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPReceiver\bin\Debug\netcoreapp3.1\ModelLib.dll
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPReceiver\bin\Debug\netcoreapp3.1\ModelLib.pdb
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\PlainUDPReceiver\obj\Debug\netcoreapp3.1\PlainUDPReceiver.csproj.CopyComplete

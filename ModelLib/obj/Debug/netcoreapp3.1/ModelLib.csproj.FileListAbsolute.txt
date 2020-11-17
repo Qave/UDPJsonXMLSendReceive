@@ -1,0 +1,9 @@
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\ModelLib\bin\Debug\netcoreapp3.1\ModelLib.deps.json
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\ModelLib\bin\Debug\netcoreapp3.1\ModelLib.dll
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\ModelLib\bin\Debug\netcoreapp3.1\ModelLib.pdb
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\ModelLib\obj\Debug\netcoreapp3.1\ModelLib.csprojAssemblyReference.cache
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\ModelLib\obj\Debug\netcoreapp3.1\ModelLib.AssemblyInfoInputs.cache
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\ModelLib\obj\Debug\netcoreapp3.1\ModelLib.AssemblyInfo.cs
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\ModelLib\obj\Debug\netcoreapp3.1\ModelLib.csproj.CoreCompileInputs.cache
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\ModelLib\obj\Debug\netcoreapp3.1\ModelLib.dll
+C:\Users\Kasper\source\repos\AA-Jamsid-Opgaver\PlainUDPReceiver\ModelLib\obj\Debug\netcoreapp3.1\ModelLib.pdb

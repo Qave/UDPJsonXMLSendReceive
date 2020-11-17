@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PlainUDPSender/1.0.0": {
+        "dependencies": {
+          "ModelLib": "1.0.0"
+        },
+        "runtime": {
+          "PlainUDPSender.dll": {}
+        }
+      },
+      "ModelLib/1.0.0": {
+        "runtime": {
+          "ModelLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PlainUDPSender/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ModelLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
